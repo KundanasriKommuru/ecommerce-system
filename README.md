@@ -30,18 +30,19 @@ It supports user authentication, product management, order processing, and analy
 ---
 
 ## 📁 Project Structure
+```
 ecommerce-system/
 │
 ├── src/
-│ ├── main.py
-│ ├── user.py
-│ ├── product.py
-│ ├── order.py
-│ └── db.py
+│   ├── main.py
+│   ├── user.py
+│   ├── product.py
+│   ├── order.py
+│   └── db.py
 │
 ├── README.md
 ├── requirements.txt
-
+```
 ## ▶️ How to Run
 1. Install Python  
 2. Install MySQL  
