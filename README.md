@@ -54,6 +54,23 @@ ecommerce-system/
 python -m src.main
 
 --------
+
+## 📸 Sample Output
+
+User Menu:
+1. Register
+2. Login
+3. Exit
+
+After Login:
+1. View Products
+2. Add Product
+3. Place Order
+4. View Orders
+5. Summary
+6. Logout
+
+
 ## 👩‍💻 Author
 Kundana
 GitHub: https://github.com/KundanasriKommuru
