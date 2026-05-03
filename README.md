@@ -34,14 +34,19 @@ It supports user authentication, product management, order processing, and analy
 ecommerce-system/
 │
 ├── src/
-│   ├── main.py
-│   ├── user.py
-│   ├── product.py
-│   ├── order.py
-│   └── db.py
+│   ├── modules/
+│   │   ├── user.py
+│   │   ├── product.py
+│   │   └── order.py
+│   │
+│   ├── db/
+│   │   └── db.py
+│   │
+│   └── main.py
 │
 ├── README.md
 ├── requirements.txt
+
 ```
 ## ▶️ How to Run
 1. Install Python  
