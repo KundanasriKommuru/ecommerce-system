@@ -1,4 +1,4 @@
-from db import cursor, conn
+from src.db import cursor, conn
 
 def add_product():
     name = input("Enter product name:")

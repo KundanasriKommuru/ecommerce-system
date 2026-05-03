@@ -1,6 +1,6 @@
-from user import register,login
-from product import add_product,view_products
-from order import place_order,view_orders, show_summary
+from src.user import register,login
+from src.product import add_product,view_products
+from src.order import place_order,view_orders, show_summary
 while True:
     print("\n1.Register 2.Login 3.Exit")
     choice = int(input("Enter choice:"))

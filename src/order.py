@@ -1,4 +1,4 @@
-from db import cursor,conn
+from src.db import cursor,conn
 def place_order(user_id):
     product_id = int(input("Enter product ID:"))
     

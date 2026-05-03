@@ -1,4 +1,4 @@
-from db import cursor, conn
+from src.db import cursor, conn
 def register():
     name = input("Enter name:")
     password = input("Enter password:")
